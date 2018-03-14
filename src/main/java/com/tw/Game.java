@@ -2,7 +2,7 @@ package com.tw;
 
 public class Game {
 
-    private static final int NUMBER_OF_ROUNDS = 5;
+    private static final int NUMBER_OF_ROUNDS = 4;
     private Player player1;
     private Player player2;
 
